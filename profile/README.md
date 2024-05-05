@@ -17,10 +17,13 @@
 
 <div align="center">
 
-| **장동익** | **함형범** | **김강평** | **박채영** |
+| **장동익** | **함형범** | **김강평** | **박채영** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="#" height=150 width=150> <br/> @](https://github.com/yeon1615) | [<img src="![image](https://github.com/discipline-CINE/.github/assets/59007130/b7136b09-cb65-47b6-818e-29a04029de42)
-" height=150 width=150> <br/> @gka0903](https://github.com/gka0903) | [<img src="#" height=150 width=150> <br/> @](https://github.com/heejiyang) | [<img src="#" height=150 width=150> <br/> @](https://github.com/journey-ji) |
+| [<img src="#" height=150 width=150> <br/> @](https://github.com/yeon1615) 
+| [<img src="![image](https://github.com/discipline-CINE/.github/assets/59007130/b7136b09-cb65-47b6-818e-29a04029de42)
+" height=150 width=150> <br/> @gka0903](https://github.com/gka0903) 
+| [<img src="#" height=150 width=150> <br/> @](https://github.com/heejiyang) 
+| [<img src="#" height=150 width=150> <br/> @](https://github.com/journey-ji) |
 
 </div>
 
