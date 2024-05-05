@@ -19,7 +19,7 @@
 
 | **박채영** | **함형범** | **장동익** | **김강평** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="#" height=150 width=150> <br/> @](https://github.com/yeon1615) | [<img src="https://avatars.githubusercontent.com/u/59007130?v=4" height=150 width=150> <br/> @gka0903](https://github.com/gka0903) | [<img src="#" height=150 width=150> <br/> @](https://github.com/heejiyang) | [<img src="#" height=150 width=150> <br/> @](https://github.com/journey-ji) |
+| [<img src="https://avatars.githubusercontent.com/u/127152443?v=4" height=150 width=150> <br/> @young3479](https://github.com/yeon1615) | [<img src="https://avatars.githubusercontent.com/u/59007130?v=4" height=150 width=150> <br/> @gka0903](https://github.com/gka0903) | [<img src="https://avatars.githubusercontent.com/u/111228362?v=4" height=150 width=150> <br/> @KoulLife](https://github.com/heejiyang) | [<img src="https://avatars.githubusercontent.com/u/126604798?v=4" height=150 width=150> <br/> @anjdal713](https://github.com/journey-ji) |
 
 </div>
 
