@@ -179,10 +179,6 @@
 - 계정 ID에는 형식 및 중복 검사가 진행됩니다.
 - 프로필 사진은 등록하지 않을 경우 기본 이미지가 등록됩니다.
 
-| 프로필 설정 |
-|----------|
-|![setProfile](https://user-images.githubusercontent.com/112460466/210173749-2da6c9af-eb93-4eea-9663-1a03e19299ec.gif)|
-
 <br>
 
 ### [로그인]
@@ -193,17 +189,18 @@
 
 | 로그인 |
 |----------|
-|![login](https://user-images.githubusercontent.com/112460466/210177956-c716414e-01c2-4c1e-b1f7-6562b9b7a857.gif)|
+|<img width="1222" alt="Screenshot 2024-05-30 at 1 37 19 PM" src="https://github.com/discipline-CINE/.github/assets/59007130/3ebf3a25-c546-4fd0-9c7b-50ad026b582c">|
 
 <br>
 
 ### [로그아웃]
-- 상단 의 kebab menu를 클릭 후 나타나는 모달창의 로그아웃 버튼을 클릭하면 확인창이 뜹니다.
+- 로그아웃 버튼을 클릭하면 확인창이 뜹니다.
 - 로그아웃시 로컬 저장소의 토큰 값과 사용자 정보를 삭제하고 초기화면으로 이동합니다.
 
 | 로그아웃 |
 |----------|
-|![logout](https://user-images.githubusercontent.com/112460466/210178009-11225733-7af5-4b8b-aa1c-fe264af01797.gif)|
+|<img width="1201" alt="Screenshot 2024-05-30 at 1 46 50 PM" src="https://github.com/discipline-CINE/.github/assets/59007130/d058dd39-f713-4a06-a2a5-7d0f707bb4ce">|
+
 
 <br>
 
