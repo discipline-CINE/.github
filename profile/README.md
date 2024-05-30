@@ -19,7 +19,10 @@
 
 | **박채영** | **함형범** | **장동익** | **김강평** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/127152443?v=4" height=150 width=150> <br/> @young3479](https://github.com/yeon1615) | [<img src="https://avatars.githubusercontent.com/u/59007130?v=4" height=150 width=150> <br/> @gka0903](https://github.com/gka0903) | [<img src="https://avatars.githubusercontent.com/u/111228362?v=4" height=150 width=150> <br/> @KoulLife](https://github.com/heejiyang) | [<img src="https://avatars.githubusercontent.com/u/126604798?v=4" height=150 width=150> <br/> @anjdal713](https://github.com/journey-ji) |
+| [<img src="https://avatars.githubusercontent.com/u/127152443?v=4" height=150 width=150> <br/> @young3479](https://github.com/yeon1615) |
+[<img src="https://avatars.githubusercontent.com/u/59007130?v=4" height=150 width=150> <br/> @gka0903](https://github.com/gka0903) |
+[<img src="https://avatars.githubusercontent.com/u/111228362?v=4" height=150 width=150> <br/> @KoulLife](https://github.com/heejiyang) 
+|[<img src="https://avatars.githubusercontent.com/u/126604798?v=4" height=150 width=150> <br/> @anjdal713](https://github.com/journey-ji) |
 
 </div>
 
@@ -153,7 +156,11 @@
 
 | 초기화면 |
 |----------|
-|![Uploading Screenshot 2024-05-29 at 5.44.43 PM.png…]()|
+|<img width="1239" alt="Screenshot 2024-05-29 at 5 44 43 PM" src="https://github.com/discipline-CINE/.github/assets/59007130/51505310-2678-4cf9-bba0-fa1c662df0bb">|
+|<img width="1235" alt="Screenshot 2024-05-30 at 10 40 39 AM" src="https://github.com/discipline-CINE/.github/assets/59007130/98d17aaa-38f2-4215-904d-88525697de3d">|
+<img width="1235" alt="Screenshot 2024-05-30 at 10 40 26 AM" src="https://github.com/discipline-CINE/.github/assets/59007130/d2c3b125-a692-443a-9b50-33b5a5738033">|
+<img width="1237" alt="Screenshot 2024-05-30 at 10 40 12 AM" src="https://github.com/discipline-CINE/.github/assets/59007130/2711ad84-dc6f-40d3-bf02-afce2a8868b2">|
+
 
 <br>
 
