@@ -1,10 +1,4 @@
-# CINEHUB
-
-
-- 배포 URL : 
-- Test ID : 
-- Test PW : 
-
+# 예시
 <br>
 
 ## 프로젝트 소개
